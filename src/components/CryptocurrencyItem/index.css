@@ -1,0 +1,29 @@
+.crypto-item-container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+}
+.logo {
+  width: 20px;
+}
+.name-container-1 {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.currency-name {
+  padding-left: 14px;
+}
+.usd {
+  padding-right: 7px;
+}
+.euro {
+  padding-left: 12px;
+  margin-right: 0px;
+}
